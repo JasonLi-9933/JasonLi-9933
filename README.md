@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Jason 👋
 
-- 😄 I am Jason, a UBC Computer Engineering student who is passionate about coding~~~
+- 😄 A UBC Computer Engineering student who is passionate about coding~~~
 - 🌱 I’m currently learning Java, Verilog, ReactJS, VueJS, JS
 - 📫 Email: haotian-li@outlook.com
 
