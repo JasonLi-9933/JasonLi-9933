@@ -1,7 +1,7 @@
 ### Hi there, I'm Jason 👋
 
-- 😄 A UBC Computer Engineering student who is passionate about coding~~~
-- 🌱 I’m currently learning Typescript, Javascript, Java, ReactJS, SQL
+- 😄 A 4th-year UBC Computer Engineering student who is passionate about coding~~~
+- 🌱 I’m currently learning C++, Typescript, Javascript, ReactJS, SQL
 - 📫 Email: haotian-li@outlook.com
 - [Portfolio](https://jasonli-9933.github.io/JasonLi-9333.github.io/)
 
