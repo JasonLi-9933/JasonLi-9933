@@ -1,7 +1,7 @@
 ### Hi there, I'm Jason 👋
 
-- 😄 A 4th-year UBC Computer Engineering student who is passionate about coding~~~
-- 🌱 I’m currently learning C++, Typescript, Javascript, ReactJS, SQL
+- 😄 A Junior Full Stack Developer who is passionate about coding~~~
+- 🌱 I’m building a CBDC(Central Bank Digital Currency)-Compilent Merchant System in a Fintech Startup
 - 📫 Email: haotian-li@outlook.com
 - [Portfolio](https://jasonli-9933.github.io/JasonLi-9333.github.io/)
 
